@@ -1,2 +1,1 @@
-# book-sales-python-data-analysis
- 
+# Data Analysis with Python: Book Sales
